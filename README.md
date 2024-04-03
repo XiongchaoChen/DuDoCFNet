@@ -1,4 +1,4 @@
-# Dual-Domain Coarse-to-Fine Progressive Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT
+# Dual-Domain Coarse-to-Fine Progressive Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT （TMI 2024）
 
 Xiongchao Chen, Bo Zhou, Xueqi Guo, Huidong Xie, Qiong Liu, James S. Duncan, Albert J. Sinusas, Chi Liu
 
