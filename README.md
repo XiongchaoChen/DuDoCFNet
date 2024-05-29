@@ -17,7 +17,13 @@ This repository contains the PyTorch implementation of the Dual-Domain Coarse-to
 ### Citation 
 If you use this code for your research or project, please cite:
 
-    xxx (Under review ...)
+    @article{chen2024dudocfnet,
+      title={DuDoCFNet: Dual-Domain Coarse-to-Fine Progressive Network for Simultaneous Denoising, Limited-View Reconstruction, and Attenuation Correction of Cardiac SPECT},
+      author={Chen, Xiongchao and Zhou, Bo and Guo, Xueqi and Xie, Huidong and Liu, Qiong and Duncan, James S and Sinusas, Albert J and Liu, Chi},
+      journal={IEEE Transactions on Medical Imaging},
+      year={2024},
+      publisher={IEEE}
+    }
 
 
 
