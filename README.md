@@ -2,6 +2,8 @@
 
 Xiongchao Chen, Bo Zhou, Xueqi Guo, Huidong Xie, Qiong Liu, James S. Duncan, Albert J. Sinusas, Chi Liu
 
+[[Paper Link](https://ieeexplore.ieee.org/abstract/document/10494204)]
+
 ### Overview
 ![image](IMAGE/Figure_1.png)
 
